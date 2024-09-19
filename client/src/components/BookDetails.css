@@ -1,0 +1,26 @@
+/* src/component/BookDetailsPage.css */
+.book-details-page {
+    padding: 20px;
+  }
+  
+  .book-cover {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    margin-top: 0;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  

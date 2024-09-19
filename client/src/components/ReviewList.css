@@ -1,0 +1,22 @@
+/* src/component/ReviewList.css */
+.review-list {
+    margin-top: 20px;
+  }
+  
+  .review-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .review-rating {
+    font-weight: bold;
+  }
+  
+  .review-comment {
+    margin: 5px 0;
+  }
+  
+  .review-date {
+    color: #666;
+  }
+  
